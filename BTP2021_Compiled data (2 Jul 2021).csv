@@ -1,0 +1,801 @@
+Month (mm-yy),Sapling no.,Planting hole,Weeding treatment,Fertiliser treatment,Peat condition,Sun exposure,Insect herbivory,Dead/Live,Height (cm),DBH (cm),No. of leaves,RGR for Height,RGR for DBH
+Mar-21,75-01-17,1,Weeding,None,Waterlogged,High,NA,Live,178,1.37,0,0,0
+Mar-21,56-01-01,2,No weeding,Urea,Partial,High,NA,Live,129.5,0.71,0,0,0
+Mar-21,50-01-09,3,Weeding,Mixed,Waterlogged,High,NA,Live,177.1,1.24,0,0,0
+Mar-21,24-01-03,4,No weeding,TSP,Partial,Partial,NA,Live,191,0.92,0,0,0
+Mar-21,28-01-03,5,Weeding,None,Partial,High,NA,Live,176.5,0.83,0,0,0
+Mar-21,39-01-22,6,No weeding,Urea,Waterlogged,High,NA,Dead,176.2,1.32,0,0,0
+Mar-21,41-01-23,7,Weeding,Mixed,Waterlogged,High,NA,Live,221,0.8,0,0,0
+Mar-21,77-01-10,8,No weeding,TSP,Dry,High,NA,Live,97,0.71,0,0,0
+Mar-21,09-01-11,9,Weeding,None,Partial,High,NA,Live,177,1.24,0,0,0
+Mar-21,05-01-04,10,No weeding,Urea,Waterlogged,High,NA,Live,157,0.5,0,0,0
+Mar-21,45-01-01,11,Weeding,Mixed,Waterlogged,High,NA,Live,175.5,1.12,0,0,0
+Mar-21,68-01-17,12,No weeding,TSP,Waterlogged,High,NA,Live,176.6,1.18,0,0,0
+Mar-21,68-01-22,13,Weeding,None,Partial,High,NA,Live,177.5,1.16,0,0,0
+Mar-21,62-01-06,14,No weeding,Urea,Dry,High,NA,Live,175.5,1.29,0,0,0
+Mar-21,53-01-09,15,Weeding,Mixed,Partial,High,NA,Live,175,0.67,0,0,0
+Mar-21,03-01-04,16,Weeding,TSP,Partial,Partial,NA,Live,187,1.28,0,0,0
+Mar-21,09-01-24,17,No weeding,None,Waterlogged,Partial,NA,Live,180.5,1.42,0,0,0
+Mar-21,68-01-15,18,Weeding,Urea,Waterlogged,High,NA,Live,154.4,0.35,0,0,0
+Mar-21,77-01-01,19,No weeding,Mixed,Partial,Partial,NA,Live,177,0.85,0,0,0
+Mar-21,41-01-06,20,Weeding,TSP,Partial,High,NA,Live,176.7,1.26,0,0,0
+Mar-21,51-01-11,21,No weeding,None,Dry,High,NA,Live,229.5,1.51,0,0,0
+Mar-21,52-01-11,22,Weeding,Urea,Waterlogged,High,NA,Live,208.5,0.75,0,0,0
+Mar-21,69-01-09,23,No weeding,Mixed,Waterlogged,High,NA,Live,178,0.95,0,0,0
+Mar-21,30-01-07,24,Weeding,TSP,Waterlogged,High,NA,Live,195,1.06,0,0,0
+Mar-21,39-01-12,25,No weeding,None,Partial,High,NA,Live,177,0.56,0,0,0
+Mar-21,02-01-02,26,Weeding,Urea,Partial,High,NA,Live,233,0.87,0,0,0
+Mar-21,39-01-18,27,No weeding,Mixed,Waterlogged,High,NA,Live,161.2,0.75,0,0,0
+Mar-21,77-01-19,28,Weeding,TSP,Partial,High,NA,Live,203,0.45,0,0,0
+Mar-21,46-01-02,29,No weeding,None,Partial,High,NA,Live,175.3,0.99,0,0,0
+Mar-21,68-01-26,30,Weeding,Urea,Dry,High,NA,Live,195,1.29,0,0,0
+Mar-21,20-01-30,31,No weeding,Mixed,Partial,Partial,NA,Live,112,0.66,0,0,0
+Mar-21,56-01-07,32,No weeding,TSP,Dry/Partial,High,NA,Live,162.5,0.51,0,0,0
+Mar-21,43-01-04,33,Weeding,None,Dry,High,NA,Live,169,0.46,0,0,0
+Mar-21,78-01-24,34,No weeding,Urea,Partial,High,NA,Live,138,0.76,0,0,0
+Mar-21,03-01-24,35,Weeding,Mixed,Partial,High,NA,Live,191,1.16,0,0,0
+Mar-21,41-01-01,36,No weeding,TSP,Partial,Partial,NA,Live,176,1.24,0,0,0
+Mar-21,09-01-10,37,Weeding,None,Partial,High,NA,Live,176.8,1.36,0,0,0
+Mar-21,22-01-01,38,No weeding,Urea,Dry,Partial,NA,Dead,175.5,1.24,0,0,0
+Mar-21,02-01-09,39,Weeding,Mixed,Waterlogged,High,NA,Live,232,1.3,0,0,0
+Mar-21,20-01-01,40,No weeding,TSP,Waterlogged,High,NA,Live,231,0.72,0,0,0
+Mar-21,77-01-17,41,Weeding,None,Waterlogged,High,NA,Live,177,0.9,0,0,0
+Mar-21,24-01-07,42,No weeding,Urea,Partial,High,NA,Live,177,0.57,0,0,0
+Mar-21,60-01-02,43,Weeding,Mixed,Partial,High,NA,Live,91.6,1.26,0,0,0
+Mar-21,20-01-33,44,No weeding,TSP,Dry,High,NA,Live,175.5,0.64,0,0,0
+Mar-21,62-01-02,45,Weeding,None,Partial,Low,NA,Live,176.7,1.36,0,0,0
+Mar-21,39-01-16,46,No weeding,Urea,Dry,High,NA,Live,175.5,0.91,0,0,0
+Mar-21,51-01-13,47,Weeding,Mixed,Waterlogged,Partial,NA,Live,165.5,1.17,0,0,0
+Mar-21,33-01-01,48,Weeding,TSP,Partial,Partial,NA,Live,152,0.43,0,0,0
+Mar-21,63-01-02,49,No weeding,None,Dry,Low,NA,Live,180.5,0.82,0,0,0
+Mar-21,13-01-09,50,No weeding,Urea,Waterlogged,Low,NA,Live,176,1.24,0,0,0
+Mar-21,20-01-08,51,No weeding,Mixed,Partial,Low,NA,Live,195,1.5,0,0,0
+Mar-21,40-01-13,52,No weeding,TSP,Partial,High,NA,Live,218,0.74,0,0,0
+Mar-21,61-01-01,53,No weeding,None,Partial,Partial,NA,Live,175.6,0.76,0,0,0
+Mar-21,03-01-08,54,Weeding,Urea,Dry,Partial,NA,Live,216.5,1.3,0,0,0
+Mar-21,49-01-13,55,No weeding,Mixed,Partial,Partial,NA,Live,196,0.76,0,0,0
+Mar-21,66-01-01,56,Weeding,TSP,Waterlogged,High,NA,Live,143.5,1.1,0,0,0
+Mar-21,25-01-02,57,No weeding,None,Partial,Partial,NA,Live,177,1.22,0,0,0
+Mar-21,45-01-06,58,Weeding,Urea,Partial,High,NA,Live,179,1.44,0,0,0
+Mar-21,51-01-02,59,No weeding,Mixed,Partial,Partial,NA,Live,174.4,0.74,0,0,0
+Mar-21,35-01-07,60,Weeding,TSP,Dry,High,NA,Live,184,1.58,0,0,0
+Mar-21,50-01-17,61,No weeding,None,Partial,Partial,NA,Live,176,0.68,0,0,0
+Mar-21,75-01-19,62,No weeding,Urea,Waterlogged,Low,NA,Live,177.7,0.48,0,0,0
+Mar-21,09-01-12,63,No weeding,Mixed,Partial,Low,NA,Live,160.5,0.43,0,0,0
+Mar-21,40-01-28,64,No weeding,TSP,Partial,Partial,NA,Live,178,0.85,0,0,0
+Mar-21,75-01-07,65,Weeding,None,Partial,High,NA,Live,177.2,1.66,0,0,0
+Mar-21,32-01-03,66,No weeding,Urea,Partial,Partial,NA,Live,205,0.5,0,0,0
+Mar-21,64-01-02,67,Weeding,Mixed,Waterlogged,High,NA,Live,146.9,0.29,0,0,0
+Mar-21,44-01-01,68,No weeding,TSP,Partial,High,NA,Live,175.5,1.09,0,0,0
+Mar-21,53-01-06,69,Weeding,None,Dry,High,NA,Live,175,0.91,0,0,0
+Mar-21,69-01-10,70,No weeding,Urea,Partial,High,NA,Live,100,0.51,0,0,0
+Mar-21,50-01-04,71,Weeding,Mixed,Waterlogged,High,NA,Live,177,1.29,0,0,0
+Mar-21,04-01-24,72,No weeding,TSP,Partial,High,NA,Live,176.7,1.15,0,0,0
+Mar-21,75-01-11,73,Weeding,None,Partial,High,NA,Live,188,0.85,0,0,0
+Mar-21,49-01-01,74,No weeding,Urea,Dry,High,NA,Live,177,1.36,0,0,0
+Mar-21,18-01-33,75,Weeding,Mixed,Partial,High,NA,Live,177,0.88,0,0,0
+Mar-21,49-01-11,76,No weeding,TSP,Waterlogged,High,NA,Live,174,1.22,0,0,0
+Mar-21,30-01-17,77,Weeding,None,Waterlogged,High,NA,Live,176.4,1.16,0,0,0
+Mar-21,06-01-04,78,No weeding,Urea,Partial,High,NA,Live,149,0.67,0,0,0
+Mar-21,78-01-22,79,Weeding,Mixed,Partial,High,NA,Live,207,1.384,0,0,0
+Mar-21,22-01-03,80,No weeding,TSP,Partial,High,NA,Live,172,0.648,0,0,0
+Mar-21,30-01-09,81,Weeding,None,Partial,High,NA,Live,175,1.049,0,0,0
+Mar-21,09-01-05,82,No weeding,Urea,Waterlogged,High,NA,Live,191.5,1.05,0,0,0
+Mar-21,18-01-28,83,Weeding,Mixed,Partial,High,NA,Live,60.5,0.33,0,0,0
+Mar-21,08-01-03,84,No weeding,TSP,Waterlogged,High,NA,Live,173,0.44,0,0,0
+Mar-21,05-01-39,85,Weeding,None,Dry,High,NA,Live,177,1.31,0,0,0
+Mar-21,68-01-27,86,No weeding,Urea,Dry,High,NA,Live,162.5,0.45,0,0,0
+Mar-21,09-01-14,87,Weeding,Mixed,Waterlogged,High,NA,Live,175.8,1.08,0,0,0
+Mar-21,39-01-30,88,No weeding,TSP,Partial,High,NA,Live,175.4,1.32,0,0,0
+Mar-21,69-01-07,89,Weeding,None,Partial,High,NA,Live,176.5,1.08,0,0,0
+Mar-21,77-01-13,90,No weeding,Urea,Partial,High,NA,Live,176.3,1.29,0,0,0
+Mar-21,21-01-17,91,Weeding,Mixed,Waterlogged,High,NA,Live,199.5,1.1,0,0,0
+Mar-21,49-01-16,92,No weeding,TSP,Partial,High,NA,Live,176.1,1.41,0,0,0
+Mar-21,44-01-11,93,Weeding,None,Waterlogged,High,NA,Live,132,0.6,0,0,0
+Mar-21,10-01-08,94,No weeding,Urea,Partial,High,NA,Live,175.4,0.55,0,0,0
+Mar-21,43-01-02,95,Weeding,Mixed,Waterlogged,High,NA,Live,178.5,1.11,0,0,0
+Mar-21,06-01-07,96,No weeding,TSP,Waterlogged,High,NA,Live,249.5,1.4,0,0,0
+Mar-21,03-01-16,97,Weeding,None,Waterlogged,High,NA,Live,91.2,0.32,0,0,0
+Mar-21,40-01-19,98,No weeding,Urea,Dry,High,NA,Live,176.4,1.56,0,0,0
+Mar-21,40-01-25,99,No weeding,None,Partial,High,NA,Live,176.5,1.34,0,0,0
+Mar-21,75-01-02,100,Weeding,Urea,Partial,High,NA,Live,177.5,1.24,0,0,0
+Mar-21,40-01-08,101,No weeding,Mixed,Waterlogged,High,NA,Live,179.3,0.9,0,0,0
+Mar-21,73-01-08,102,Weeding,TSP,Partial,High,NA,Live,136,0.89,0,0,0
+Mar-21,78-01-08,103,No weeding,None,Dry,High,NA,Live,176.5,0.84,0,0,0
+Mar-21,78-01-20,104,Weeding,Urea,Dry,High,NA,Live,176.9,1.07,0,0,0
+Mar-21,03-01-12,105,No weeding,Mixed,Waterlogged,High,NA,Live,177.2,1.25,0,0,0
+Mar-21,68-01-25,106,Weeding,TSP,Partial,High,NA,Live,177,1.22,0,0,0
+Mar-21,44-01-12,107,No weeding,None,Dry,High,NA,Live,79,0.45,0,0,0
+Mar-21,78-01-26,108,Weeding,Urea,Dry,High,NA,Live,177,1.35,0,0,0
+Mar-21,25-01-04,109,No weeding,Mixed,Partial,Partial,NA,Live,176.2,1.47,0,0,0
+Mar-21,44-01-10,110,Weeding,TSP,Partial,High,NA,Live,176,1.56,0,0,0
+Mar-21,43-01-01,111,No weeding,None,Partial,High,NA,Live,188.4,1.31,0,0,0
+Mar-21,65-01-05,112,Weeding,Urea,Partial,High,NA,Live,176.4,0.96,0,0,0
+Mar-21,69-01-06,113,No weeding,Mixed,Partial,High,NA,Live,177,0.931,0,0,0
+Mar-21,68-01-24,114,Weeding,TSP,Partial,High,NA,Live,147,0.31,0,0,0
+Mar-21,10-01-12,115,No weeding,None,Partial,High,NA,Live,192,1.166,0,0,0
+Mar-21,39-01-14,116,Weeding,Urea,Waterlogged,High,NA,Live,117.5,0.7,0,0,0
+Mar-21,10-01-04,117,No weeding,Mixed,Waterlogged,High,NA,Live,163.5,1.23,0,0,0
+Mar-21,44-01-04,118,Weeding,TSP,Partial,High,NA,Live,176,1.41,0,0,0
+Mar-21,13-01-03,119,No weeding,None,Waterlogged,High,NA,Live,166.1,1.16,0,0,0
+Mar-21,68-01-28,120,Weeding,Urea,Waterlogged,High,NA,Live,187.4,0.6,0,0,0
+Mar-21,68-01-06,121,No weeding,Mixed,Waterlogged,High,NA,Dead,73.4,1.3,0,0,0
+Mar-21,20-01-31,122,Weeding,TSP,Partial,High,NA,Live,175.5,1.19,0,0,0
+Mar-21,08-01-09,123,No weeding,None,Partial,High,NA,Live,196.5,0.88,0,0,0
+Mar-21,06-01-06,124,Weeding,Urea,Partial,High,NA,Live,180,0.31,0,0,0
+Mar-21,65-01-06,125,No weeding,Mixed,Partial,High,NA,Live,227.3,0.98,0,0,0
+Mar-21,08-01-06,126,Weeding,TSP,Partial,High,NA,Live,177.4,0.95,0,0,0
+Mar-21,52-01-10,127,No weeding,None,Waterlogged,High,NA,Live,191.2,0.89,0,0,0
+Mar-21,19-01-07,128,Weeding,Urea,Waterlogged,High,NA,Live,193.5,0.7,0,0,0
+Mar-21,52-01-05,129,No weeding,Mixed,Waterlogged,High,NA,Live,180,1,0,0,0
+Mar-21,41-01-34,130,Weeding,TSP,Waterlogged,High,NA,Live,124,0.83,0,0,0
+Mar-21,18-01-27,131,No weeding,None,Waterlogged,High,NA,Live,176.6,1.06,0,0,0
+Mar-21,20-01-27,132,Weeding,Urea,Waterlogged,High,NA,Live,148.2,0.93,0,0,0
+Mar-21,53-01-05,133,Weeding,None,Partial,High,NA,Live,111,0.86,0,0,0
+Mar-21,39-01-04,134,No weeding,Urea,Partial,Partial,NA,Live,177,1.75,0,0,0
+Mar-21,18-01-21,135,Weeding,Mixed,Waterlogged,High,NA,Live,177.5,0.76,0,0,0
+Mar-21,64-01-04,136,No weeding,TSP,Partial,High,NA,Live,178,0.54,0,0,0
+Mar-21,41-01-33,137,Weeding,None,Partial,High,NA,Live,105,0.22,0,0,0
+Mar-21,49-01-12,138,No weeding,Urea,Partial,High,NA,Live,179.6,0.71,0,0,0
+Mar-21,40-01-22,139,Weeding,Mixed,Waterlogged,High,NA,Live,95.1,0.36,0,0,0
+Mar-21,45-01-06,140,No weeding,TSP,Partial,High,NA,Live,177.1,1.53,0,0,0
+Mar-21,05-01-20,141,Weeding,None,Dry,High,NA,Live,179,1.18,0,0,0
+Mar-21,57-01-06,142,No weeding,Urea,Dry,High,NA,Live,177,0.99,0,0,0
+Mar-21,32-01-02,143,Weeding,Mixed,Partial,Partial,NA,Live,65,0.25,0,0,0
+Mar-21,05-01-43,144,No weeding,TSP,Partial,Low,NA,Live,214,0.85,0,0,0
+Mar-21,62-01-09,145,Weeding,None,Waterlogged,Low,NA,Live,99,1.38,0,0,0
+Mar-21,22-01-02,146,No weeding,Urea,Partial,Low,NA,Live,112,0.74,0,0,0
+Mar-21,77-01-04,147,Weeding,Mixed,Partial,High,NA,Live,184.5,1.211,0,0,0
+Mar-21,17-01-02,148,No weeding,TSP,Waterlogged,High,NA,Live,175.5,0.829,0,0,0
+Mar-21,05-01-27,149,Weeding,None,Partial,High,NA,Live,182,0.821,0,0,0
+Mar-21,03-01-20,150,No weeding,Urea,Dry,High,NA,Live,229,1.49,0,0,0
+Mar-21,78-01-03,151,Weeding,Mixed,Dry,High,NA,Live,179,1,0,0,0
+Mar-21,67-01-04,152,No weeding,TSP,Waterlogged,High,NA,Live,189,0.61,0,0,0
+Mar-21,04-01-07,153,Weeding,None,Dry,High,NA,Live,176,0.99,0,0,0
+Mar-21,69-01-01,154,No weeding,Urea,Waterlogged,High,NA,Live,190.1,0.53,0,0,0
+Mar-21,17-01-05,155,Weeding,Mixed,Waterlogged,High,NA,Dead,176.8,0.46,0,0,0
+Mar-21,50-01-15,156,No weeding,TSP,Partial,High,NA,Live,177,1.11,0,0,0
+Mar-21,05-01-25,157,Weeding,None,Dry,High,NA,Live,177.5,1.68,0,0,0
+Mar-21,75-01-06,158,No weeding,Urea,Partial,High,NA,Live,185.3,0.61,0,0,0
+Mar-21,02-01-14,159,Weeding,Mixed,Partial,High,NA,Live,175.5,1.6,0,0,0
+Mar-21,77-01-20,160,No weeding,TSP,Waterlogged,High,NA,Live,177.3,2.15,0,0,0
+Mar-21,18-01-02,161,Weeding,None,Partial,High,NA,Live,186.5,0.6,0,0,0
+Mar-21,08-01-04,162,No weeding,Urea,Waterlogged,High,NA,Live,137,0.47,0,0,0
+Mar-21,40-01-16,163,Weeding,Mixed,Waterlogged,High,NA,Live,126,0.52,0,0,0
+Mar-21,40-01-01,164,No weeding,TSP,Waterlogged,High,NA,Live,176.2,0.78,0,0,0
+Mar-21,56-01-04,165,Weeding,None,Waterlogged,High,NA,Live,203,0.81,0,0,0
+Mar-21,75-01-12,166,No weeding,Urea,Waterlogged,High,NA,Live,177.1,0.67,0,0,0
+Mar-21,50-01-05,167,No weeding,None,Partial,Partial,NA,Live,148,0.6,0,0,0
+Mar-21,54-01-04,168,Weeding,Urea,Partial,Low,NA,Live,133.5,0.66,0,0,0
+Mar-21,08-01-11,169,No weeding,Mixed,Waterlogged,Low,NA,Live,173,0.55,0,0,0
+Mar-21,03-01-14,170,No weeding,TSP,Partial,Low,NA,Live,177,1.08,0,0,0
+Mar-21,71-01-02,171,No weeding,None,Partial,Low,NA,Live,148.5,1.15,0,0,0
+Mar-21,68-01-07,172,Weeding,Urea,Partial,Low,NA,Live,176.7,0.9,0,0,0
+Mar-21,30-01-23,173,No weeding,Mixed,Waterlogged,Low,NA,Live,175.5,1.03,0,0,0
+Mar-21,78-01-05,174,Weeding,TSP,Partial,High,NA,Live,175.5,1.21,0,0,0
+Mar-21,03-01-23,175,No weeding,None,Dry,Partial,NA,Live,202,1.23,0,0,0
+Mar-21,50-01-06,176,Weeding,Urea,Partial,Low,NA,Live,174.5,0.73,0,0,0
+Mar-21,65-01-04,177,No weeding,Mixed,Partial,Low,NA,Live,177.4,1.05,0,0,0
+Mar-21,18-01-25,178,Weeding,TSP,Partial,Low,NA,Live,109,0.81,0,0,0
+Mar-21,54-01-05,179,No weeding,None,Partial,Low,NA,Live,137,0.25,0,0,0
+Mar-21,07-01-03,180,Weeding,Urea,Partial,Low,NA,Live,175.5,0.59,0,0,0
+Mar-21,50-01-07,181,No weeding,Mixed,Partial,Partial,NA,Live,177.5,0.976,0,0,0
+Mar-21,78-01-02,182,Weeding,TSP,Partial,Partial,NA,Dead,81,0.497,0,0,0
+Mar-21,18-01-18,183,No weeding,None,Partial,Partial,NA,Live,177,0.946,0,0,0
+Mar-21,20-01-24,184,Weeding,Urea,Dry,Partial,NA,Live,176,1.33,0,0,0
+Mar-21,44-01-14,185,No weeding,Mixed,Waterlogged,High,NA,Live,176.5,1.1,0,0,0
+Mar-21,20-01-05,186,Weeding,TSP,Partial,High,NA,Live,189.8,0.63,0,0,0
+Mar-21,53-01-01,187,No weeding,None,Partial,High,NA,Live,175.8,1.12,0,0,0
+Mar-21,40-01-24,188,Weeding,Urea,Waterlogged,High,NA,Live,176.7,0.97,0,0,0
+Mar-21,77-01-03,189,No weeding,Mixed,Partial,High,NA,Live,176.2,0.92,0,0,0
+Mar-21,70-01-01,190,Weeding,TSP,Partial,High,NA,Live,177.4,1.4,0,0,0
+Mar-21,20-01-14,191,No weeding,None,Partial,Partial,NA,Live,175,1.52,0,0,0
+Mar-21,05-01-17,192,Weeding,Urea,Partial,High,NA,Live,176.5,1.08,0,0,0
+Mar-21,29-01-06,193,No weeding,Mixed,Partial,High,NA,Live,184.1,0.64,0,0,0
+Mar-21,73-01-01,194,Weeding,TSP,Partial,High,NA,Live,201,1.51,0,0,0
+Mar-21,41-01-10,195,No weeding,None,Waterlogged,High,NA,Live,200,1.8,0,0,0
+Mar-21,22-01-04,196,Weeding,Urea,Partial,Partial,NA,Live,176,0.67,0,0,0
+Mar-21,05-01-02,197,No weeding,Mixed,Waterlogged,High,NA,Live,177.5,1.11,0,0,0
+Mar-21,05-01-07,198,Weeding,TSP,Partial,High,NA,Live,177.1,0.87,0,0,0
+Mar-21,05-01-28,199,No weeding,None,Waterlogged,High,NA,Live,109.4,0.88,0,0,0
+Mar-21,49-01-14,200,Weeding,Urea,Waterlogged,High,NA,Live,133,0.82,0,0,0
+Apr-21,75-01-17,1,Weeding,None,Partial,High,NA,Live,177.5,1.52,0,-0.00281,0.1039
+Apr-21,56-01-01,2,No weeding,Urea,Dry,High,Low,Live,129,0.94,4,-0.00387,0.28061
+Apr-21,50-01-09,3,Weeding,Mixed,Waterlogged,High,NA,Live,177,1.27,0,-0.00056,0.02391
+Apr-21,24-01-03,4,No weeding,TSP,Dry,Partial,Low,Live,192,0.92,4,0.00522,0
+Apr-21,28-01-03,5,Weeding,None,Partial,High,NA,Live,176,0.87,0,-0.00284,0.04707
+Apr-21,39-01-22,6,No weeding,Urea,Waterlogged,High,NA,Dead,175.5,1.25,0,NA,NA
+Apr-21,41-01-23,7,Weeding,Mixed,Waterlogged,High,None,Live,229,0.8,9,0.03556,0
+Apr-21,77-01-10,8,No weeding,TSP,Partial,High,Low,Live,102.5,0.83,2,0.05515,0.15616
+Apr-21,09-01-11,9,Weeding,None,Partial,High,NA,Live,177,1.38,3,0,0.10697
+Apr-21,05-01-04,10,No weeding,Urea,Waterlogged,High,NA,Live,160,0.5,0,0.01893,0
+Apr-21,45-01-01,11,Weeding,Mixed,Waterlogged,High,NA,Live,176,1.05,0,0.00284,-0.06454
+Apr-21,68-01-17,12,No weeding,TSP,Waterlogged,High,NA,Dead,177.5,1.26,0,NA,NA
+Apr-21,68-01-22,13,Weeding,None,Partial,Partial,NA,Dead,175.5,1.17,0,NA,NA
+Apr-21,62-01-06,14,No weeding,Urea,Partial,Partial,NA,Live,176,1.28,0,0.00284,-0.00778
+Apr-21,53-01-09,15,Weeding,Mixed,Partial,High,Low,Live,176.6,0.67,4,0.0091,0
+Apr-21,03-01-04,16,Weeding,TSP,Partial,High,None,Live,176.5,1.26,0,-0.05779,-0.01575
+Apr-21,09-01-24,17,No weeding,None,Dry,Partial,Low,Live,184,1.4,6,0.0192,-0.01418
+Apr-21,68-01-15,18,Weeding,Urea,Dry,High,Intermediate,Live,153,0.42,2,-0.00911,0.18232
+Apr-21,77-01-01,19,No weeding,Mixed,Partial,Partial,NA,Dead,177,0.82,0,NA,NA
+Apr-21,41-01-06,20,Weeding,TSP,Dry,High,NA,Live,177,1.21,0,0.0017,-0.04049
+Apr-21,51-01-11,21,No weeding,None,Partial,High,None,Live,227.5,1.46,3,-0.00875,-0.03367
+Apr-21,52-01-11,22,Weeding,Urea,Waterlogged,High,NA,Dead,205,0.62,0,NA,NA
+Apr-21,69-01-09,23,No weeding,Mixed,Waterlogged,High,NA,Live,178.2,0.93,0,0.00112,-0.02128
+Apr-21,30-01-07,24,Weeding,TSP,Waterlogged,High,NA,Dead,174.7,0.93,0,NA,NA
+Apr-21,39-01-12,25,No weeding,None,Partial,High,NA,Dead,176.5,0.51,0,NA,NA
+Apr-21,02-01-02,26,Weeding,Urea,Partial,High,NA,Live,233,0.88,0,0,0.01143
+Apr-21,39-01-18,27,No weeding,Mixed,Waterlogged,High,None,Live,161,0.78,1,-0.00124,0.03922
+Apr-21,77-01-19,28,Weeding,TSP,Partial,High,None,Live,203.5,0.58,3,0.00246,0.25378
+Apr-21,46-01-02,29,No weeding,None,Partial,Partial,NA,Dead,175,0.92,0,NA,NA
+Apr-21,68-01-26,30,Weeding,Urea,Partial,High,NA,Live,180,1.44,0,-0.08004,0.11
+Apr-21,20-01-30,31,No weeding,Mixed,Partial,High,NA,Dead,78.5,0.56,0,NA,NA
+Apr-21,56-01-07,32,No weeding,TSP,Partial,High,None,Live,163,0.53,10,0.00307,0.03847
+Apr-21,43-01-04,33,Weeding,None,Dry,High,NA,Live,175,0.63,0,0.03489,0.31449
+Apr-21,78-01-24,34,No weeding,Urea,Dry,Partial,NA,Dead,143,0.42,0,NA,NA
+Apr-21,03-01-24,35,Weeding,Mixed,Dry,High,Low,Live,193,1.3,3,0.01042,0.11394
+Apr-21,41-01-01,36,No weeding,TSP,Dry,Partial,NA,Dead,176,1.16,0,NA,NA
+Apr-21,09-01-10,37,Weeding,None,Partial,High,NA,Live,176.5,1.37,0,-0.0017,0.00733
+Apr-21,22-01-01,38,No weeding,Urea,Partial,High,None,Live,187.5,1.33,4,0.06614,0.07007
+Apr-21,02-01-09,39,Weeding,Mixed,Waterlogged,High,NA,Live,234.5,1.1,0,0.01072,-0.16705
+Apr-21,20-01-01,40,No weeding,TSP,Waterlogged,High,NA,Live,176.5,0.75,0,-0.2691,0.04082
+Apr-21,77-01-17,41,Weeding,None,Partial,High,NA,Live,177,0.9,0,0,0
+Apr-21,24-01-07,42,No weeding,Urea,Partial,High,NA,Live,176,0.64,0,-0.00567,0.11583
+Apr-21,60-01-02,43,Weeding,Mixed,Partial,High,NA,Dead,93,1.35,0,NA,NA
+Apr-21,20-01-33,44,No weeding,TSP,Partial,Partial,Low,Live,176,0.73,5,0.00284,0.13158
+Apr-21,62-01-02,45,Weeding,None,Partial,Low,Low,Live,182,1.53,3,0.02955,0.11778
+Apr-21,39-01-16,46,No weeding,Urea,Partial,Partial,NA,Live,175.5,0.9,0,0,-0.01105
+Apr-21,51-01-13,47,Weeding,Mixed,Partial,Partial,NA,Dead,174.5,1.17,0,NA,NA
+Apr-21,33-01-01,48,Weeding,TSP,Partial,High,None,Live,152.5,0.44,0,0.00328,0.02299
+Apr-21,63-01-02,49,No weeding,None,Partial,Low,Low,Live,183,0.8,5,0.01376,-0.02469
+Apr-21,13-01-09,50,No weeding,Urea,Partial,Low,NA,Dead,178,1.22,0,NA,NA
+Apr-21,20-01-08,51,No weeding,Mixed,Dry,Low,NA,Live,197,1.2,0,0.0102,-0.22314
+Apr-21,40-01-13,52,No weeding,TSP,Dry,Partial,NA,Live,210.5,0.7,0,-0.03501,-0.05557
+Apr-21,61-01-01,53,No weeding,None,Partial,High,NA,Live,211,0.75,0,0.18365,-0.01325
+Apr-21,03-01-08,54,Weeding,Urea,Partial,High,NA,Dead,217,1.22,0,NA,NA
+Apr-21,49-01-13,55,No weeding,Mixed,Partial,Low,Low,Live,200.5,0.87,4,0.0227,0.13517
+Apr-21,66-01-01,56,Weeding,TSP,Waterlogged,High,Low,Live,144.5,1,4,0.00694,-0.09531
+Apr-21,25-01-02,57,No weeding,None,Partial,Partial,NA,Live,176.5,1.16,0,-0.00283,-0.05043
+Apr-21,45-01-06,58,Weeding,Urea,Dry,Partial,NA,Dead,178,1.4,0,NA,NA
+Apr-21,51-01-02,59,No weeding,Mixed,Partial,High,Low,Live,177,0.74,7,0.0148,0
+Apr-21,35-01-07,60,Weeding,TSP,Partial,High,Low,Live,210,1.62,8,0.13217,0.025
+Apr-21,50-01-17,61,No weeding,None,Partial,Low,Low,Live,175,0.77,1,-0.0057,0.1243
+Apr-21,75-01-19,62,No weeding,Urea,Waterlogged,Low,Low,Live,178,0.54,3,0.00169,0.11778
+Apr-21,09-01-12,63,No weeding,Mixed,Partial,Low,Low,Live,182.5,0.46,1,0.12846,0.06744
+Apr-21,40-01-28,64,No weeding,TSP,Partial,Partial,Low,Live,177,0.74,2,-0.00563,-0.13859
+Apr-21,75-01-07,65,Weeding,None,Dry,High,NA,Live,177.5,1.68,0,0.00169,0.01198
+Apr-21,32-01-03,66,No weeding,Urea,Dry,Partial,NA,Dead,200.5,0.52,0,NA,NA
+Apr-21,64-01-02,67,Weeding,Mixed,Dry,High,None,Live,148,0.27,1,0.00746,-0.07146
+Apr-21,44-01-01,68,No weeding,TSP,Partial,High,Low,Live,177,1.13,9,0.00851,0.03604
+Apr-21,53-01-06,69,Weeding,None,Partial,High,NA,Live,175.6,0.98,0,0.00342,0.07411
+Apr-21,69-01-10,70,No weeding,Urea,Partial,High,NA,Dead,97.5,0.49,0,NA,NA
+Apr-21,50-01-04,71,Weeding,Mixed,Partial,High,None,Live,176,1.15,0,-0.00567,-0.11488
+Apr-21,04-01-24,72,No weeding,TSP,Partial,High,NA,Dead,175.6,1.08,0,NA,NA
+Apr-21,75-01-11,73,Weeding,None,Partial,High,None,Live,177,0.88,0,-0.06029,0.03469
+Apr-21,49-01-01,74,No weeding,Urea,Partial,High,Low,Live,176,1.3,2,-0.00567,-0.04512
+Apr-21,18-01-33,75,Weeding,Mixed,Partial,High,NA,Live,177,0.88,0,0,0
+Apr-21,49-01-11,76,No weeding,TSP,Waterlogged,High,NA,Dead,174,1.03,0,NA,NA
+Apr-21,30-01-17,77,Weeding,None,Waterlogged,High,NA,Dead,176.5,0.98,0,NA,NA
+Apr-21,06-01-04,78,No weeding,Urea,Partial,High,NA,Dead,148,0.26,0,NA,NA
+Apr-21,78-01-22,79,Weeding,Mixed,Partial,High,NA,Live,180.5,1.37,0,-0.13699,-0.01017
+Apr-21,22-01-03,80,No weeding,TSP,Partial,High,NA,Dead,175.5,0.62,0,NA,NA
+Apr-21,30-01-09,81,Weeding,None,Partial,High,High,Live,175.5,0.87,1,0.00285,-0.1871
+Apr-21,09-01-05,82,No weeding,Urea,Waterlogged,High,NA,Live,193,1.1,0,0.0078,0.04652
+Apr-21,18-01-28,83,Weeding,Mixed,Partial,Partial,Low,Live,72,0.38,1,0.17402,0.14108
+Apr-21,08-01-03,84,No weeding,TSP,Waterlogged,Partial,NA,Dead,152.5,0.43,0,NA,NA
+Apr-21,05-01-39,85,Weeding,None,Partial,High,None,Live,176.2,1.32,5,-0.00453,0.0076
+Apr-21,68-01-27,86,No weeding,Urea,Partial,High,None,Live,166.5,0.5,0,0.02432,0.10536
+Apr-21,09-01-14,87,Weeding,Mixed,Partial,High,None,Live,176.4,1.03,0,0.00341,-0.0474
+Apr-21,39-01-30,88,No weeding,TSP,Partial,Partial,NA,Dead,176,1.08,0,NA,NA
+Apr-21,69-01-07,89,Weeding,None,Partial,Partial,NA,Dead,177,1.18,0,NA,NA
+Apr-21,77-01-13,90,No weeding,Urea,Partial,Partial,NA,Live,177,0.71,0,0.00396,-0.59713
+Apr-21,21-01-17,91,Weeding,Mixed,Partial,High,NA,Dead,174.5,1,0,NA,NA
+Apr-21,49-01-16,92,No weeding,TSP,Partial,High,NA,Live,176,1.38,0,-0.00057,-0.02151
+Apr-21,44-01-11,93,Weeding,None,Partial,High,NA,Live,155,0.49,0,0.16062,-0.20252
+Apr-21,10-01-08,94,No weeding,Urea,Partial,High,NA,Dead,175.5,1.42,0,NA,NA
+Apr-21,43-01-02,95,Weeding,Mixed,Partial,High,None,Live,178,1.12,1,-0.00281,0.00897
+Apr-21,06-01-07,96,No weeding,TSP,Partial,High,None,Live,254.5,1.43,0,0.01984,0.0212
+Apr-21,03-01-16,97,Weeding,None,Partial,High,Low,Live,87,0.25,2,-0.04715,-0.24686
+Apr-21,40-01-19,98,No weeding,Urea,Dry,High,None,Live,177,1.5,0,0.0034,-0.03922
+Apr-21,40-01-25,99,No weeding,None,Partial,Partial,NA,Live,176.7,1.31,0,0.00113,-0.02264
+Apr-21,75-01-02,100,Weeding,Urea,Partial,High,NA,Live,179,1.34,0,0.00842,0.07756
+Apr-21,40-01-08,101,No weeding,Mixed,Partial,High,None,Live,170,1.01,3,-0.05326,0.11531
+Apr-21,73-01-08,102,Weeding,TSP,Partial,High,Low,Live,138.9,0.26,8,0.0211,-1.23054
+Apr-21,78-01-08,103,No weeding,None,Partial,High,NA,Live,177,1.1,1,0.00283,0.26966
+Apr-21,78-01-20,104,Weeding,Urea,Partial,High,NA,Live,177,1.09,0,0.00057,0.01852
+Apr-21,03-01-12,105,No weeding,Mixed,Partial,High,None,Live,176,1.17,0,-0.0068,-0.06614
+Apr-21,68-01-25,106,Weeding,TSP,Partial,High,NA,Dead,176.4,1.15,0,NA,NA
+Apr-21,44-01-12,107,No weeding,None,Dry,High,None,Live,81.2,0.53,0,0.02747,0.16363
+Apr-21,78-01-26,108,Weeding,Urea,Dry,High,NA,Dead,176,1.23,0,NA,NA
+Apr-21,25-01-04,109,No weeding,Mixed,Dry,High,NA,Live,177.5,1.37,0,0.00735,-0.07045
+Apr-21,44-01-10,110,Weeding,TSP,Dry,High,NA,Dead,175,1.64,0,NA,NA
+Apr-21,43-01-01,111,No weeding,None,Partial,High,None,Live,178,1.25,1,-0.05678,-0.04688
+Apr-21,65-01-05,112,Weeding,Urea,Partial,High,NA,Live,176.5,0.99,0,0.00057,0.03077
+Apr-21,69-01-06,113,No weeding,Mixed,Partial,High,NA,Live,177,0.93,3,0,-0.00107
+Apr-21,68-01-24,114,Weeding,TSP,Waterlogged,High,NA,Dead,54,0.22,0,NA,NA
+Apr-21,10-01-12,115,No weeding,None,Partial,High,NA,Live,193,1.14,0,0.00519,-0.02255
+Apr-21,39-01-14,116,Weeding,Urea,Waterlogged,High,Low,Live,136,0.78,2,0.14622,0.10821
+Apr-21,10-01-04,117,No weeding,Mixed,Partial,Partial,NA,Live,176,1.27,0,0.07367,0.032
+Apr-21,44-01-04,118,Weeding,TSP,Partial,High,NA,Live,176.5,1.446,0,0.00284,0.02521
+Apr-21,13-01-03,119,No weeding,None,Partial,High,None,Live,183.2,1.24,5,0.09799,0.06669
+Apr-21,68-01-28,120,Weeding,Urea,Waterlogged,High,None,Live,186.2,0.68,0,-0.00642,0.12516
+Apr-21,68-01-06,121,No weeding,Mixed,Partial,High,NA,Dead,74,1.67,0,NA,NA
+Apr-21,20-01-31,122,Weeding,TSP,Partial,High,NA,Live,176,1.27,0,0.00284,0.06506
+Apr-21,08-01-09,123,No weeding,None,Partial,High,None,Live,176,0.9,6,-0.11018,0.02247
+Apr-21,06-01-06,124,Weeding,Urea,Partial,High,None,Live,170,0.35,2,-0.05716,0.12136
+Apr-21,65-01-06,125,No weeding,Mixed,Partial,High,Low,Live,214,0.88,4,-0.06029,-0.10763
+Apr-21,08-01-06,126,Weeding,TSP,Partial,High,NA,Live,177,0.99,0,-0.00226,0.04124
+Apr-21,52-01-10,127,No weeding,None,Partial,High,NA,Live,180.5,0.77,0,-0.05759,-0.14483
+Apr-21,19-01-07,128,Weeding,Urea,Waterlogged,High,None,Live,184,1.03,1,-0.05034,0.38623
+Apr-21,52-01-05,129,No weeding,Mixed,Partial,High,NA,Live,176.5,1,0,-0.01964,0
+Apr-21,41-01-34,130,Weeding,TSP,Partial,High,None,Live,125,0.8,0,0.00803,-0.03681
+Apr-21,18-01-27,131,No weeding,None,Waterlogged,High,NA,Dead,176.5,0.99,0,NA,NA
+Apr-21,20-01-27,132,Weeding,Urea,Waterlogged,High,NA,Dead,176,0.92,0,NA,NA
+Apr-21,53-01-05,133,Weeding,None,Waterlogged,Partial,NA,Live,65.5,0.34,0,-0.52748,-0.92799
+Apr-21,39-01-04,134,No weeding,Urea,Partial,Partial,NA,Dead,176,1.74,0,NA,NA
+Apr-21,18-01-21,135,Weeding,Mixed,Waterlogged,Partial,None,Live,180,0.77,2,0.01399,0.01307
+Apr-21,64-01-04,136,No weeding,TSP,Partial,Partial,NA,Live,180.5,0.51,0,0.01395,-0.05716
+Apr-21,41-01-33,137,Weeding,None,Partial,High,Low,Live,110,0.38,2,0.04652,0.54654
+Apr-21,49-01-12,138,No weeding,Urea,Partial,High,Low,Live,182.1,0.7,7,0.01382,-0.01418
+Apr-21,40-01-22,139,Weeding,Mixed,Partial,High,High,Live,90.5,0.39,1,-0.04958,0.08004
+Apr-21,45-01-06,140,No weeding,TSP,Dry,Partial,None,Live,176.5,1.54,0,-0.00339,0.00651
+Apr-21,05-01-20,141,Weeding,None,Partial,Partial,None,Live,177.5,1.2,0,-0.00842,0.01681
+Apr-21,57-01-06,142,No weeding,Urea,Dry,Partial,NA,Dead,177,1.02,0,NA,NA
+Apr-21,32-01-02,143,Weeding,Mixed,Dry,Partial,Low,Live,65,0.26,2,0,0.03922
+Apr-21,05-01-43,144,No weeding,TSP,Partial,Low,NA,Live,217,0.87,0,0.01392,0.02326
+Apr-21,62-01-09,145,Weeding,None,Partial,Partial,NA,Live,139.5,0.38,2,0.34294,-1.28967
+Apr-21,22-01-02,146,No weeding,Urea,Partial,Partial,NA,Live,127.5,0.8,0,0.12962,0.07796
+Apr-21,77-01-04,147,Weeding,Mixed,Partial,High,NA,Dead,178,1.16,0,NA,NA
+Apr-21,17-01-02,148,No weeding,TSP,Waterlogged,High,NA,Live,177,0.78,0,0.00851,-0.06093
+Apr-21,05-01-27,149,Weeding,None,Waterlogged,High,NA,Live,184.5,0.83,0,0.01364,0.0109
+Apr-21,03-01-20,150,No weeding,Urea,Partial,High,NA,Live,176.5,1.59,0,-0.2604,0.06496
+Apr-21,78-01-03,151,Weeding,Mixed,Partial,Partial,NA,Live,178,0.96,1,-0.0056,-0.04082
+Apr-21,67-01-04,152,No weeding,TSP,Partial,Partial,NA,Live,175,0.66,0,-0.07696,0.07878
+Apr-21,04-01-07,153,Weeding,None,Partial,High,None,Live,177.8,1.07,0,0.01018,0.07771
+Apr-21,69-01-01,154,No weeding,Urea,Partial,High,None,Live,196,0.52,0,0.03056,-0.01905
+Apr-21,17-01-05,155,Weeding,Mixed,Waterlogged,High,NA,Dead,177,1.3,0,NA,NA
+Apr-21,50-01-15,156,No weeding,TSP,Partial,Partial,NA,Live,177,1.04,0,0,-0.06514
+Apr-21,05-01-25,157,Weeding,None,Dry,High,NA,Live,177,1.68,0,-0.00282,0
+Apr-21,75-01-06,158,No weeding,Urea,Partial,High,None,Live,189,0.63,2,0.01977,0.03226
+Apr-21,02-01-14,159,Weeding,Mixed,Partial,High,NA,Dead,175,1.11,0,NA,NA
+Apr-21,77-01-20,160,No weeding,TSP,Partial,High,Low,Live,177.5,1.9,18,0.00113,-0.12361
+Apr-21,18-01-02,161,Weeding,None,Partial,High,NA,Dead,176.5,0.93,0,NA,NA
+Apr-21,08-01-04,162,No weeding,Urea,Partial,High,NA,Live,175.5,1.25,0,0.24766,0.97817
+Apr-21,40-01-16,163,Weeding,Mixed,Partial,High,NA,Dead,121.5,0.4,0,NA,NA
+Apr-21,40-01-01,164,No weeding,TSP,Partial,High,None,Live,194,0.83,0,0.09624,0.06213
+Apr-21,56-01-04,165,Weeding,None,Partial,High,NA,Dead,201.5,0.7,0,NA,NA
+Apr-21,75-01-12,166,No weeding,Urea,Partial,High,None,Live,193,0.71,0,0.08598,0.05799
+Apr-21,50-01-05,167,No weeding,None,Waterlogged,Partial,NA,Dead,145.5,0.34,0,NA,NA
+Apr-21,54-01-04,168,Weeding,Urea,Partial,Low,NA,Live,138,0.61,0,0.03315,-0.07878
+Apr-21,08-01-11,169,No weeding,Mixed,Partial,Low,NA,Dead,172,0.5,0,NA,NA
+Apr-21,03-01-14,170,No weeding,TSP,Partial,Low,NA,Live,175.8,1.07,0,-0.0068,-0.0093
+Apr-21,71-01-02,171,No weeding,None,Partial,Partial,NA,Live,176.5,1.23,0,0.17274,0.06725
+Apr-21,68-01-07,172,Weeding,Urea,Partial,High,Intermediate,Live,193.9,0.91,13,0.09289,0.01105
+Apr-21,30-01-23,173,No weeding,Mixed,Dry,High,None,Live,174.5,1.1,0,-0.00571,0.06575
+Apr-21,78-01-05,174,Weeding,TSP,Dry,Partial,None,Live,174.6,1.36,1,-0.00514,0.11686
+Apr-21,03-01-23,175,No weeding,None,Dry,Partial,None,Live,151.1,1.3,11,-0.29033,0.05535
+Apr-21,50-01-06,176,Weeding,Urea,Partial,Low,Low,Live,177,0.42,1,0.01422,-0.55279
+Apr-21,65-01-04,177,No weeding,Mixed,Partial,Low,Low,Live,177,1.2,3,-0.00226,0.13353
+Apr-21,18-01-25,178,Weeding,TSP,Partial,Low,Low,Live,115,0.74,3,0.05358,-0.09038
+Apr-21,54-01-05,179,No weeding,None,Waterlogged,Low,NA,Dead,180,1.32,0,NA,NA
+Apr-21,07-01-03,180,Weeding,Urea,Partial,Low,NA,Live,175,0.62,0,-0.00285,0.0496
+Apr-21,50-01-07,181,No weeding,Mixed,Partial,Partial,NA,Dead,177.5,0.89,0,NA,NA
+Apr-21,78-01-02,182,Weeding,TSP,Partial,Partial,NA,Dead,112.5,0.42,0,NA,NA
+Apr-21,18-01-18,183,No weeding,None,Dry,Low,NA,Live,177,1.1,0,0,0.15082
+Apr-21,20-01-24,184,Weeding,Urea,Dry,Partial,None,Live,176.5,1.4,1,0.00284,0.05129
+Apr-21,44-01-14,185,No weeding,Mixed,Partial,Partial,NA,Dead,176,1.06,0,NA,NA
+Apr-21,20-01-05,186,Weeding,TSP,Partial,Partial,NA,Live,187,0.67,0,-0.01486,0.06156
+Apr-21,53-01-01,187,No weeding,None,Partial,High,NA,Dead,174.5,1.12,0,NA,NA
+Apr-21,40-01-24,188,Weeding,Urea,Partial,High,NA,Dead,176.5,0.99,0,NA,NA
+Apr-21,77-01-03,189,No weeding,Mixed,Partial,High,NA,Dead,176,0.86,0,NA,NA
+Apr-21,70-01-01,190,Weeding,TSP,Partial,High,NA,Dead,179,1.29,0,NA,NA
+Apr-21,20-01-14,191,No weeding,None,Partial,Partial,NA,Live,175,1.5,0,0,-0.01325
+Apr-21,05-01-17,192,Weeding,Urea,Partial,High,NA,Live,177,1.18,0,0.00283,0.08855
+Apr-21,29-01-06,193,No weeding,Mixed,Partial,High,Low,Live,182,0.67,3,-0.01147,0.04581
+Apr-21,73-01-01,194,Weeding,TSP,Partial,High,Low,Live,201,1.57,1,0,0.03897
+Apr-21,41-01-10,195,No weeding,None,Partial,High,NA,Dead,201.3,0.72,0,NA,NA
+Apr-21,22-01-04,196,Weeding,Urea,Partial,Partial,NA,Dead,176.5,1.51,0,NA,NA
+Apr-21,05-01-02,197,No weeding,Mixed,Partial,High,NA,Live,177,1.14,0,-0.00282,0.02667
+Apr-21,05-01-07,198,Weeding,TSP,Partial,High,NA,Dead,178.5,1,0,NA,NA
+Apr-21,05-01-28,199,No weeding,None,Waterlogged,High,NA,Dead,115.2,0.83,0,NA,NA
+Apr-21,49-01-14,200,Weeding,Urea,Partial,High,None,Live,153,0.92,0,0.14009,0.11507
+May-21,75-01-17,1,Weeding,None,NA,NA,NA,NA,NA,NA,NA,NA,NA
+May-21,56-01-01,2,No weeding,Urea,NA,NA,NA,NA,NA,NA,NA,NA,NA
+May-21,50-01-09,3,Weeding,Mixed,NA,NA,NA,NA,NA,NA,NA,NA,NA
+May-21,24-01-03,4,No weeding,TSP,NA,NA,NA,NA,NA,NA,NA,NA,NA
+May-21,28-01-03,5,Weeding,None,NA,NA,NA,NA,NA,NA,NA,NA,NA
+May-21,39-01-22,6,No weeding,Urea,NA,NA,NA,NA,NA,NA,NA,NA,NA
+May-21,41-01-23,7,Weeding,Mixed,NA,NA,NA,NA,NA,NA,NA,NA,NA
+May-21,77-01-10,8,No weeding,TSP,NA,NA,NA,NA,NA,NA,NA,NA,NA
+May-21,09-01-11,9,Weeding,None,NA,NA,NA,NA,NA,NA,NA,NA,NA
+May-21,05-01-04,10,No weeding,Urea,NA,NA,NA,NA,NA,NA,NA,NA,NA
+May-21,45-01-01,11,Weeding,Mixed,NA,NA,NA,NA,NA,NA,NA,NA,NA
+May-21,68-01-17,12,No weeding,TSP,NA,NA,NA,NA,NA,NA,NA,NA,NA
+May-21,68-01-22,13,Weeding,None,NA,NA,NA,NA,NA,NA,NA,NA,NA
+May-21,62-01-06,14,No weeding,Urea,NA,NA,NA,NA,NA,NA,NA,NA,NA
+May-21,53-01-09,15,Weeding,Mixed,NA,NA,NA,NA,NA,NA,NA,NA,NA
+May-21,03-01-04,16,Weeding,TSP,NA,NA,NA,NA,NA,NA,NA,NA,NA
+May-21,09-01-24,17,No weeding,None,NA,NA,NA,NA,NA,NA,NA,NA,NA
+May-21,68-01-15,18,Weeding,Urea,NA,NA,NA,NA,NA,NA,NA,NA,NA
+May-21,77-01-01,19,No weeding,Mixed,NA,NA,NA,NA,NA,NA,NA,NA,NA
+May-21,41-01-06,20,Weeding,TSP,NA,NA,NA,NA,NA,NA,NA,NA,NA
+May-21,51-01-11,21,No weeding,None,NA,NA,NA,NA,NA,NA,NA,NA,NA
+May-21,52-01-11,22,Weeding,Urea,NA,NA,NA,NA,NA,NA,NA,NA,NA
+May-21,69-01-09,23,No weeding,Mixed,NA,NA,NA,NA,NA,NA,NA,NA,NA
+May-21,30-01-07,24,Weeding,TSP,NA,NA,NA,NA,NA,NA,NA,NA,NA
+May-21,39-01-12,25,No weeding,None,NA,NA,NA,NA,NA,NA,NA,NA,NA
+May-21,02-01-02,26,Weeding,Urea,NA,NA,NA,NA,NA,NA,NA,NA,NA
+May-21,39-01-18,27,No weeding,Mixed,NA,NA,NA,NA,NA,NA,NA,NA,NA
+May-21,77-01-19,28,Weeding,TSP,NA,NA,NA,NA,NA,NA,NA,NA,NA
+May-21,46-01-02,29,No weeding,None,NA,NA,NA,NA,NA,NA,NA,NA,NA
+May-21,68-01-26,30,Weeding,Urea,NA,NA,NA,NA,NA,NA,NA,NA,NA
+May-21,20-01-30,31,No weeding,Mixed,NA,NA,NA,NA,NA,NA,NA,NA,NA
+May-21,56-01-07,32,No weeding,TSP,NA,NA,NA,NA,NA,NA,NA,NA,NA
+May-21,43-01-04,33,Weeding,None,NA,NA,NA,NA,NA,NA,NA,NA,NA
+May-21,78-01-24,34,No weeding,Urea,NA,NA,NA,NA,NA,NA,NA,NA,NA
+May-21,03-01-24,35,Weeding,Mixed,NA,NA,NA,NA,NA,NA,NA,NA,NA
+May-21,41-01-01,36,No weeding,TSP,NA,NA,NA,NA,NA,NA,NA,NA,NA
+May-21,09-01-10,37,Weeding,None,NA,NA,NA,NA,NA,NA,NA,NA,NA
+May-21,22-01-01,38,No weeding,Urea,NA,NA,NA,NA,NA,NA,NA,NA,NA
+May-21,02-01-09,39,Weeding,Mixed,NA,NA,NA,NA,NA,NA,NA,NA,NA
+May-21,20-01-01,40,No weeding,TSP,NA,NA,NA,NA,NA,NA,NA,NA,NA
+May-21,77-01-17,41,Weeding,None,NA,NA,NA,NA,NA,NA,NA,NA,NA
+May-21,24-01-07,42,No weeding,Urea,NA,NA,NA,NA,NA,NA,NA,NA,NA
+May-21,60-01-02,43,Weeding,Mixed,NA,NA,NA,NA,NA,NA,NA,NA,NA
+May-21,20-01-33,44,No weeding,TSP,NA,NA,NA,NA,NA,NA,NA,NA,NA
+May-21,62-01-02,45,Weeding,None,NA,NA,NA,NA,NA,NA,NA,NA,NA
+May-21,39-01-16,46,No weeding,Urea,NA,NA,NA,NA,NA,NA,NA,NA,NA
+May-21,51-01-13,47,Weeding,Mixed,NA,NA,NA,NA,NA,NA,NA,NA,NA
+May-21,33-01-01,48,Weeding,TSP,NA,NA,NA,NA,NA,NA,NA,NA,NA
+May-21,63-01-02,49,No weeding,None,NA,NA,NA,NA,NA,NA,NA,NA,NA
+May-21,13-01-09,50,No weeding,Urea,NA,NA,NA,NA,NA,NA,NA,NA,NA
+May-21,20-01-08,51,No weeding,Mixed,NA,NA,NA,NA,NA,NA,NA,NA,NA
+May-21,40-01-13,52,No weeding,TSP,NA,NA,NA,NA,NA,NA,NA,NA,NA
+May-21,61-01-01,53,No weeding,None,NA,NA,NA,NA,NA,NA,NA,NA,NA
+May-21,03-01-08,54,Weeding,Urea,NA,NA,NA,NA,NA,NA,NA,NA,NA
+May-21,49-01-13,55,No weeding,Mixed,NA,NA,NA,NA,NA,NA,NA,NA,NA
+May-21,66-01-01,56,Weeding,TSP,NA,NA,NA,NA,NA,NA,NA,NA,NA
+May-21,25-01-02,57,No weeding,None,NA,NA,NA,NA,NA,NA,NA,NA,NA
+May-21,45-01-06,58,Weeding,Urea,NA,NA,NA,NA,NA,NA,NA,NA,NA
+May-21,51-01-02,59,No weeding,Mixed,NA,NA,NA,NA,NA,NA,NA,NA,NA
+May-21,35-01-07,60,Weeding,TSP,NA,NA,NA,NA,NA,NA,NA,NA,NA
+May-21,50-01-17,61,No weeding,None,NA,NA,NA,NA,NA,NA,NA,NA,NA
+May-21,75-01-19,62,No weeding,Urea,NA,NA,NA,NA,NA,NA,NA,NA,NA
+May-21,09-01-12,63,No weeding,Mixed,NA,NA,NA,NA,NA,NA,NA,NA,NA
+May-21,40-01-28,64,No weeding,TSP,NA,NA,NA,NA,NA,NA,NA,NA,NA
+May-21,75-01-07,65,Weeding,None,NA,NA,NA,NA,NA,NA,NA,NA,NA
+May-21,32-01-03,66,No weeding,Urea,NA,NA,NA,NA,NA,NA,NA,NA,NA
+May-21,64-01-02,67,Weeding,Mixed,NA,NA,NA,NA,NA,NA,NA,NA,NA
+May-21,44-01-01,68,No weeding,TSP,NA,NA,NA,NA,NA,NA,NA,NA,NA
+May-21,53-01-06,69,Weeding,None,NA,NA,NA,NA,NA,NA,NA,NA,NA
+May-21,69-01-10,70,No weeding,Urea,NA,NA,NA,NA,NA,NA,NA,NA,NA
+May-21,50-01-04,71,Weeding,Mixed,NA,NA,NA,NA,NA,NA,NA,NA,NA
+May-21,04-01-24,72,No weeding,TSP,NA,NA,NA,NA,NA,NA,NA,NA,NA
+May-21,75-01-11,73,Weeding,None,NA,NA,NA,NA,NA,NA,NA,NA,NA
+May-21,49-01-01,74,No weeding,Urea,NA,NA,NA,NA,NA,NA,NA,NA,NA
+May-21,18-01-33,75,Weeding,Mixed,NA,NA,NA,NA,NA,NA,NA,NA,NA
+May-21,49-01-11,76,No weeding,TSP,NA,NA,NA,NA,NA,NA,NA,NA,NA
+May-21,30-01-17,77,Weeding,None,NA,NA,NA,NA,NA,NA,NA,NA,NA
+May-21,06-01-04,78,No weeding,Urea,NA,NA,NA,NA,NA,NA,NA,NA,NA
+May-21,78-01-22,79,Weeding,Mixed,NA,NA,NA,NA,NA,NA,NA,NA,NA
+May-21,22-01-03,80,No weeding,TSP,NA,NA,NA,NA,NA,NA,NA,NA,NA
+May-21,30-01-09,81,Weeding,None,NA,NA,NA,NA,NA,NA,NA,NA,NA
+May-21,09-01-05,82,No weeding,Urea,NA,NA,NA,NA,NA,NA,NA,NA,NA
+May-21,18-01-28,83,Weeding,Mixed,NA,NA,NA,NA,NA,NA,NA,NA,NA
+May-21,08-01-03,84,No weeding,TSP,NA,NA,NA,NA,NA,NA,NA,NA,NA
+May-21,05-01-39,85,Weeding,None,NA,NA,NA,NA,NA,NA,NA,NA,NA
+May-21,68-01-27,86,No weeding,Urea,NA,NA,NA,NA,NA,NA,NA,NA,NA
+May-21,09-01-14,87,Weeding,Mixed,NA,NA,NA,NA,NA,NA,NA,NA,NA
+May-21,39-01-30,88,No weeding,TSP,NA,NA,NA,NA,NA,NA,NA,NA,NA
+May-21,69-01-07,89,Weeding,None,NA,NA,NA,NA,NA,NA,NA,NA,NA
+May-21,77-01-13,90,No weeding,Urea,NA,NA,NA,NA,NA,NA,NA,NA,NA
+May-21,21-01-17,91,Weeding,Mixed,NA,NA,NA,NA,NA,NA,NA,NA,NA
+May-21,49-01-16,92,No weeding,TSP,NA,NA,NA,NA,NA,NA,NA,NA,NA
+May-21,44-01-11,93,Weeding,None,NA,NA,NA,NA,NA,NA,NA,NA,NA
+May-21,10-01-08,94,No weeding,Urea,NA,NA,NA,NA,NA,NA,NA,NA,NA
+May-21,43-01-02,95,Weeding,Mixed,NA,NA,NA,NA,NA,NA,NA,NA,NA
+May-21,06-01-07,96,No weeding,TSP,NA,NA,NA,NA,NA,NA,NA,NA,NA
+May-21,03-01-16,97,Weeding,None,NA,NA,NA,NA,NA,NA,NA,NA,NA
+May-21,40-01-19,98,No weeding,Urea,NA,NA,NA,NA,NA,NA,NA,NA,NA
+May-21,40-01-25,99,No weeding,None,NA,NA,NA,NA,NA,NA,NA,NA,NA
+May-21,75-01-02,100,Weeding,Urea,NA,NA,NA,NA,NA,NA,NA,NA,NA
+May-21,40-01-08,101,No weeding,Mixed,NA,NA,NA,NA,NA,NA,NA,NA,NA
+May-21,73-01-08,102,Weeding,TSP,NA,NA,NA,NA,NA,NA,NA,NA,NA
+May-21,78-01-08,103,No weeding,None,NA,NA,NA,NA,NA,NA,NA,NA,NA
+May-21,78-01-20,104,Weeding,Urea,NA,NA,NA,NA,NA,NA,NA,NA,NA
+May-21,03-01-12,105,No weeding,Mixed,NA,NA,NA,NA,NA,NA,NA,NA,NA
+May-21,68-01-25,106,Weeding,TSP,NA,NA,NA,NA,NA,NA,NA,NA,NA
+May-21,44-01-12,107,No weeding,None,NA,NA,NA,NA,NA,NA,NA,NA,NA
+May-21,78-01-26,108,Weeding,Urea,NA,NA,NA,NA,NA,NA,NA,NA,NA
+May-21,25-01-04,109,No weeding,Mixed,NA,NA,NA,NA,NA,NA,NA,NA,NA
+May-21,44-01-10,110,Weeding,TSP,NA,NA,NA,NA,NA,NA,NA,NA,NA
+May-21,43-01-01,111,No weeding,None,NA,NA,NA,NA,NA,NA,NA,NA,NA
+May-21,65-01-05,112,Weeding,Urea,NA,NA,NA,NA,NA,NA,NA,NA,NA
+May-21,69-01-06,113,No weeding,Mixed,NA,NA,NA,NA,NA,NA,NA,NA,NA
+May-21,68-01-24,114,Weeding,TSP,NA,NA,NA,NA,NA,NA,NA,NA,NA
+May-21,10-01-12,115,No weeding,None,NA,NA,NA,NA,NA,NA,NA,NA,NA
+May-21,39-01-14,116,Weeding,Urea,NA,NA,NA,NA,NA,NA,NA,NA,NA
+May-21,10-01-04,117,No weeding,Mixed,NA,NA,NA,NA,NA,NA,NA,NA,NA
+May-21,44-01-04,118,Weeding,TSP,NA,NA,NA,NA,NA,NA,NA,NA,NA
+May-21,13-01-03,119,No weeding,None,NA,NA,NA,NA,NA,NA,NA,NA,NA
+May-21,68-01-28,120,Weeding,Urea,NA,NA,NA,NA,NA,NA,NA,NA,NA
+May-21,68-01-06,121,No weeding,Mixed,NA,NA,NA,NA,NA,NA,NA,NA,NA
+May-21,20-01-31,122,Weeding,TSP,NA,NA,NA,NA,NA,NA,NA,NA,NA
+May-21,08-01-09,123,No weeding,None,NA,NA,NA,NA,NA,NA,NA,NA,NA
+May-21,06-01-06,124,Weeding,Urea,NA,NA,NA,NA,NA,NA,NA,NA,NA
+May-21,65-01-06,125,No weeding,Mixed,NA,NA,NA,NA,NA,NA,NA,NA,NA
+May-21,08-01-06,126,Weeding,TSP,NA,NA,NA,NA,NA,NA,NA,NA,NA
+May-21,52-01-10,127,No weeding,None,NA,NA,NA,NA,NA,NA,NA,NA,NA
+May-21,19-01-07,128,Weeding,Urea,NA,NA,NA,NA,NA,NA,NA,NA,NA
+May-21,52-01-05,129,No weeding,Mixed,NA,NA,NA,NA,NA,NA,NA,NA,NA
+May-21,41-01-34,130,Weeding,TSP,NA,NA,NA,NA,NA,NA,NA,NA,NA
+May-21,18-01-27,131,No weeding,None,NA,NA,NA,NA,NA,NA,NA,NA,NA
+May-21,20-01-27,132,Weeding,Urea,NA,NA,NA,NA,NA,NA,NA,NA,NA
+May-21,53-01-05,133,Weeding,None,NA,NA,NA,NA,NA,NA,NA,NA,NA
+May-21,39-01-04,134,No weeding,Urea,NA,NA,NA,NA,NA,NA,NA,NA,NA
+May-21,18-01-21,135,Weeding,Mixed,NA,NA,NA,NA,NA,NA,NA,NA,NA
+May-21,64-01-04,136,No weeding,TSP,NA,NA,NA,NA,NA,NA,NA,NA,NA
+May-21,41-01-33,137,Weeding,None,NA,NA,NA,NA,NA,NA,NA,NA,NA
+May-21,49-01-12,138,No weeding,Urea,NA,NA,NA,NA,NA,NA,NA,NA,NA
+May-21,40-01-22,139,Weeding,Mixed,NA,NA,NA,NA,NA,NA,NA,NA,NA
+May-21,45-01-06,140,No weeding,TSP,NA,NA,NA,NA,NA,NA,NA,NA,NA
+May-21,05-01-20,141,Weeding,None,NA,NA,NA,NA,NA,NA,NA,NA,NA
+May-21,57-01-06,142,No weeding,Urea,NA,NA,NA,NA,NA,NA,NA,NA,NA
+May-21,32-01-02,143,Weeding,Mixed,NA,NA,NA,NA,NA,NA,NA,NA,NA
+May-21,05-01-43,144,No weeding,TSP,NA,NA,NA,NA,NA,NA,NA,NA,NA
+May-21,62-01-09,145,Weeding,None,NA,NA,NA,NA,NA,NA,NA,NA,NA
+May-21,22-01-02,146,No weeding,Urea,NA,NA,NA,NA,NA,NA,NA,NA,NA
+May-21,77-01-04,147,Weeding,Mixed,NA,NA,NA,NA,NA,NA,NA,NA,NA
+May-21,17-01-02,148,No weeding,TSP,NA,NA,NA,NA,NA,NA,NA,NA,NA
+May-21,05-01-27,149,Weeding,None,NA,NA,NA,NA,NA,NA,NA,NA,NA
+May-21,03-01-20,150,No weeding,Urea,NA,NA,NA,NA,NA,NA,NA,NA,NA
+May-21,78-01-03,151,Weeding,Mixed,NA,NA,NA,NA,NA,NA,NA,NA,NA
+May-21,67-01-04,152,No weeding,TSP,NA,NA,NA,NA,NA,NA,NA,NA,NA
+May-21,04-01-07,153,Weeding,None,NA,NA,NA,NA,NA,NA,NA,NA,NA
+May-21,69-01-01,154,No weeding,Urea,NA,NA,NA,NA,NA,NA,NA,NA,NA
+May-21,17-01-05,155,Weeding,Mixed,NA,NA,NA,NA,NA,NA,NA,NA,NA
+May-21,50-01-15,156,No weeding,TSP,NA,NA,NA,NA,NA,NA,NA,NA,NA
+May-21,05-01-25,157,Weeding,None,NA,NA,NA,NA,NA,NA,NA,NA,NA
+May-21,75-01-06,158,No weeding,Urea,NA,NA,NA,NA,NA,NA,NA,NA,NA
+May-21,02-01-14,159,Weeding,Mixed,NA,NA,NA,NA,NA,NA,NA,NA,NA
+May-21,77-01-20,160,No weeding,TSP,NA,NA,NA,NA,NA,NA,NA,NA,NA
+May-21,18-01-02,161,Weeding,None,NA,NA,NA,NA,NA,NA,NA,NA,NA
+May-21,08-01-04,162,No weeding,Urea,NA,NA,NA,NA,NA,NA,NA,NA,NA
+May-21,40-01-16,163,Weeding,Mixed,NA,NA,NA,NA,NA,NA,NA,NA,NA
+May-21,40-01-01,164,No weeding,TSP,NA,NA,NA,NA,NA,NA,NA,NA,NA
+May-21,56-01-04,165,Weeding,None,NA,NA,NA,NA,NA,NA,NA,NA,NA
+May-21,75-01-12,166,No weeding,Urea,NA,NA,NA,NA,NA,NA,NA,NA,NA
+May-21,50-01-05,167,No weeding,None,NA,NA,NA,NA,NA,NA,NA,NA,NA
+May-21,54-01-04,168,Weeding,Urea,NA,NA,NA,NA,NA,NA,NA,NA,NA
+May-21,08-01-11,169,No weeding,Mixed,NA,NA,NA,NA,NA,NA,NA,NA,NA
+May-21,03-01-14,170,No weeding,TSP,NA,NA,NA,NA,NA,NA,NA,NA,NA
+May-21,71-01-02,171,No weeding,None,NA,NA,NA,NA,NA,NA,NA,NA,NA
+May-21,68-01-07,172,Weeding,Urea,NA,NA,NA,NA,NA,NA,NA,NA,NA
+May-21,30-01-23,173,No weeding,Mixed,NA,NA,NA,NA,NA,NA,NA,NA,NA
+May-21,78-01-05,174,Weeding,TSP,NA,NA,NA,NA,NA,NA,NA,NA,NA
+May-21,03-01-23,175,No weeding,None,NA,NA,NA,NA,NA,NA,NA,NA,NA
+May-21,50-01-06,176,Weeding,Urea,NA,NA,NA,NA,NA,NA,NA,NA,NA
+May-21,65-01-04,177,No weeding,Mixed,NA,NA,NA,NA,NA,NA,NA,NA,NA
+May-21,18-01-25,178,Weeding,TSP,NA,NA,NA,NA,NA,NA,NA,NA,NA
+May-21,54-01-05,179,No weeding,None,NA,NA,NA,NA,NA,NA,NA,NA,NA
+May-21,07-01-03,180,Weeding,Urea,NA,NA,NA,NA,NA,NA,NA,NA,NA
+May-21,50-01-07,181,No weeding,Mixed,NA,NA,NA,NA,NA,NA,NA,NA,NA
+May-21,78-01-02,182,Weeding,TSP,NA,NA,NA,NA,NA,NA,NA,NA,NA
+May-21,18-01-18,183,No weeding,None,NA,NA,NA,NA,NA,NA,NA,NA,NA
+May-21,20-01-24,184,Weeding,Urea,NA,NA,NA,NA,NA,NA,NA,NA,NA
+May-21,44-01-14,185,No weeding,Mixed,NA,NA,NA,NA,NA,NA,NA,NA,NA
+May-21,20-01-05,186,Weeding,TSP,NA,NA,NA,NA,NA,NA,NA,NA,NA
+May-21,53-01-01,187,No weeding,None,NA,NA,NA,NA,NA,NA,NA,NA,NA
+May-21,40-01-24,188,Weeding,Urea,NA,NA,NA,NA,NA,NA,NA,NA,NA
+May-21,77-01-03,189,No weeding,Mixed,NA,NA,NA,NA,NA,NA,NA,NA,NA
+May-21,70-01-01,190,Weeding,TSP,NA,NA,NA,NA,NA,NA,NA,NA,NA
+May-21,20-01-14,191,No weeding,None,NA,NA,NA,NA,NA,NA,NA,NA,NA
+May-21,05-01-17,192,Weeding,Urea,NA,NA,NA,NA,NA,NA,NA,NA,NA
+May-21,29-01-06,193,No weeding,Mixed,NA,NA,NA,NA,NA,NA,NA,NA,NA
+May-21,73-01-01,194,Weeding,TSP,NA,NA,NA,NA,NA,NA,NA,NA,NA
+May-21,41-01-10,195,No weeding,None,NA,NA,NA,NA,NA,NA,NA,NA,NA
+May-21,22-01-04,196,Weeding,Urea,NA,NA,NA,NA,NA,NA,NA,NA,NA
+May-21,05-01-02,197,No weeding,Mixed,NA,NA,NA,NA,NA,NA,NA,NA,NA
+May-21,05-01-07,198,Weeding,TSP,NA,NA,NA,NA,NA,NA,NA,NA,NA
+May-21,05-01-28,199,No weeding,None,NA,NA,NA,NA,NA,NA,NA,NA,NA
+May-21,49-01-14,200,Weeding,Urea,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Jun-21,49-01-05,1,Weeding,None,Partial,High,NA,Live,218.5,1.91,NA,NA,NA
+Jun-21,56-01-01,2,No weeding,Urea,Partial,High,Low,Live,130,0.31,5,0.00128,-0.27623
+Jun-21,50-01-09,3,Weeding,Mixed,Partial,Partial,Low,Live,177,1.2,18,-0.00019,-0.01093
+Jun-21,05-01-42,4,No weeding,TSP,Partial,High,NA,Live,94,0.45,NA,NA,NA
+Jun-21,28-01-03,5,Weeding,None,Waterlogged,High,Low,Live,176,0.89,9,-0.00095,0.02327
+Jun-21,08-01-02,6,No weeding,Urea,Waterlogged,High,NA,Live,148,0.32,NA,NA,NA
+Jun-21,41-01-23,7,Weeding,Mixed,Waterlogged,High,Low,Live,227,0.81,4,0.00893,0.00414
+Jun-21,77-01-10,8,No weeding,TSP,Partial,High,Intermediate,Live,99,0.76,3,0.0068,0.02268
+Jun-21,09-01-11,9,Weeding,None,Dry,High,Intermediate,Live,177.5,1.42,17,0.00094,0.04518
+Jun-21,05-01-04,10,No weeding,Urea,Waterlogged,High,NA,Live,158.5,0.48,0,0.00317,-0.01361
+Jun-21,45-01-01,11,Weeding,Mixed,Waterlogged,High,NA,Live,177,1.06,3,0.00284,-0.01835
+Jun-21,78-01-14,12,No weeding,TSP,Waterlogged,High,NA,Live,137,0.83,NA,NA,NA
+Jun-21,62-01-01,13,Weeding,None,Dry,High,NA,Live,199,0.93,NA,NA,NA
+Jun-21,78-01-01,14,No weeding,Urea,Dry,High,NA,Live,163,0.95,NA,NA,NA
+Jun-21,53-01-09,15,Weeding,Mixed,Dry,High,Intermediate,Live,178,0.73,15,0.00567,0.02859
+Jun-21,65-01-02,16,Weeding,TSP,Partial,High,NA,Live,177,1.34,NA,NA,NA
+Jun-21,25-01-15,17,No weeding,None,Partial,Partial,NA,Live,227,0.79,NA,NA,NA
+Jun-21,08-01-08,18,Weeding,Urea,Partial,High,NA,Live,186,0.51,NA,NA,NA
+Jun-21,13-01-01,19,No weeding,Mixed,Partial,High,NA,Live,176.5,1.19,NA,NA,NA
+Jun-21,30-01-16,20,Weeding,TSP,Partial,High,NA,Live,177,0.54,NA,NA,NA
+Jun-21,73-01-02,21,No weeding,None,Partial,High,NA,Live,176,0.94,NA,NA,NA
+Jun-21,69-01-02,22,Weeding,Urea,Waterlogged,High,NA,Live,199,0.92,NA,NA,NA
+Jun-21,69-01-09,23,No weeding,Mixed,Waterlogged,High,None,Live,178,0.94,7,0,-0.00353
+Jun-21,05-01-35,24,Weeding,TSP,Waterlogged,High,Intermediate,Live,204,1.21,NA,NA,NA
+Jun-21,02-01-15,25,No weeding,None,Dry,High,NA,Live,177,0.89,NA,NA,NA
+Jun-21,02-01-02,26,Weeding,Urea,Dry,High,Intermediate,Live,231,0.84,3,-0.00287,-0.0117
+Jun-21,39-01-18,27,No weeding,Mixed,Waterlogged,High,Intermediate,Live,161,0.77,6,-0.00041,0.00877
+Jun-21,77-01-19,28,Weeding,TSP,Dry,High,Low,Live,206,0.57,5,0.00489,0.0788
+Jun-21,05-01-46,29,No weeding,None,Partial,High,NA,Live,176,0.81,NA,NA,NA
+Jun-21,68-01-26,30,Weeding,Urea,Dry,High,Low,Live,177,1.31,7,-0.03228,0.00513
+Jun-21,68-01-29,31,No weeding,Mixed,Partial,High,NA,Live,189,0.71,NA,NA,NA
+Jun-21,56-01-07,32,No weeding,TSP,Dry,High,Low,Live,173,0.61,22,0.02087,0.05968
+Jun-21,43-01-04,33,Weeding,None,Partial,High,Low,Live,175,0.49,20,0.01163,0.02106
+Jun-21,49-01-07,34,No weeding,Urea,Partial,High,NA,Live,185,0.51,NA,NA,NA
+Jun-21,03-01-24,35,Weeding,Mixed,Partial,Partial,Low,Live,190.5,1.3,10,-0.00087,0.03798
+Jun-21,35-01-02,36,No weeding,TSP,Partial,High,NA,Live,197,0.84,NA,NA,NA
+Jun-21,03-01-02,37,Weeding,None,Partial,High,NA,Live,177,0.97,NA,NA,NA
+Jun-21,22-01-01,38,No weeding,Urea,Dry,High,Low,Live,176,1.26,29,0.00095,0.00533
+Jun-21,02-01-09,39,Weeding,Mixed,Waterlogged,High,Intermediate,Live,235,1.14,18,0.00428,-0.04378
+Jun-21,20-01-01,40,No weeding,TSP,Waterlogged,High,NA,Live,176,0.82,0,-0.09064,0.04335
+Jun-21,77-01-17,41,Weeding,None,Partial,High,Low,Live,182,0.94,9,0.00929,0.0145
+Jun-21,77-01-05,42,No weeding,Urea,Partial,High,NA,Live,232,0.69,NA,NA,NA
+Jun-21,19-01-09,43,Weeding,Mixed,Partial,High,NA,Live,161.5,1.09,NA,NA,NA
+Jun-21,20-01-33,44,No weeding,TSP,Dry,High,Low,Live,176,0.73,24,0.00095,0.04386
+Jun-21,40-01-09,45,Weeding,None,Partial,Low,NA,Live,192,1.05,NA,NA,NA
+Jun-21,18-01-15,46,No weeding,Urea,Partial,Partial,NA,Live,129,0.75,NA,NA,NA
+Jun-21,08-01-16,47,Weeding,Mixed,Partial,Partial,NA,Live,198,1.1,NA,NA,NA
+Jun-21,03-01-03,48,Weeding,TSP,Partial,High,NA,Live,99,1.12,NA,NA,NA
+Jun-21,63-01-02,49,No weeding,None,Partial,Low,Low,Live,183,0.76,12,0.00459,-0.02533
+Jun-21,09-01-26,50,No weeding,Urea,Partial,Low,NA,Live,215,0.5,NA,NA,NA
+Jun-21,20-01-08,51,No weeding,Mixed,Partial,Low,Low,Live,187,1.33,9,-0.01396,-0.0401
+Jun-21,40-01-13,52,No weeding,TSP,Dry,Partial,Low,Live,212.5,0.74,10,-0.00852,0
+Jun-21,61-01-01,53,No weeding,None,Waterlogged,High,Low,Live,179,0.72,16,0.00639,-0.01802
+Jun-21,55-01-01,54,Weeding,Urea,Partial,High,NA,Live,221,1.44,NA,NA,NA
+Jun-21,49-01-13,55,No weeding,Mixed,Waterlogged,Partial,Intermediate,Live,199,0.9,11,0.00506,0.05636
+Jun-21,66-01-01,56,Weeding,TSP,Waterlogged,High,Intermediate,Live,137,0.94,3,-0.01545,-0.0524
+Jun-21,18-01-13,57,No weeding,None,Waterlogged,Low,NA,Live,230,1.47,NA,NA,NA
+Jun-21,29-01-01,58,Weeding,Urea,Partial,High,NA,Live,197,1.04,NA,NA,NA
+Jun-21,51-01-02,59,No weeding,Mixed,Dry,High,Low,Live,175.5,0.76,18,0.0021,0.00889
+Jun-21,35-01-07,60,Weeding,TSP,Dry,High,Low,Live,211,1.52,15,0.04564,-0.0129
+Jun-21,50-01-17,61,No weeding,None,Partial,Low,Low,Live,176,0.72,9,0,0.01905
+Jun-21,75-01-19,62,No weeding,Urea,Partial,Low,Low,Live,180.5,0.52,7,0.00521,0.02668
+Jun-21,18-01-08,63,No weeding,Mixed,Partial,Low,NA,Live,115,0.48,NA,NA,NA
+Jun-21,40-01-28,64,No weeding,TSP,Dry,Partial,Low,Live,178,0.86,2,0,0.0039
+Jun-21,75-01-07,65,Weeding,None,Partial,High,Low,Live,180,1.59,21,0.00523,-0.01436
+Jun-21,35-01-04,66,No weeding,Urea,Partial,High,NA,Live,199.5,0.71,NA,NA,NA
+Jun-21,64-01-02,67,Weeding,Mixed,Partial,High,Intermediate,Live,149,0.93,3,0.00473,0.38843
+Jun-21,30-01-25,68,No weeding,TSP,Partial,High,NA,Live,130,0.9,NA,NA,NA
+Jun-21,53-01-06,69,Weeding,None,Partial,High,Low,Live,190,0.91,25,0.02741,0
+Jun-21,42-01-01,70,No weeding,Urea,Partial,High,NA,Live,186,1.05,NA,NA,NA
+Jun-21,17-01-03,71,Weeding,Mixed,Partial,High,NA,Live,176.2,1.3,NA,NA,NA
+Jun-21,77-01-14,72,No weeding,TSP,Partial,High,NA,Live,151,0.45,NA,NA,NA
+Jun-21,75-01-11,73,Weeding,None,Partial,High,Low,Live,199.6,0.84,17,0.01996,-0.00394
+Jun-21,41-01-14,74,No weeding,Urea,Dry,Partial,NA,Live,176,1.44,NA,NA,NA
+Jun-21,19-01-10,75,Weeding,Mixed,Dry,High,NA,Live,149,0.25,NA,NA,NA
+Jun-21,40-01-12,76,No weeding,TSP,Partial,High,NA,Live,212,1.08,NA,NA,NA
+Jun-21,78-01-10,77,Weeding,None,Partial,High,NA,Live,196.5,1.482,NA,NA,NA
+Jun-21,61-01-04,78,No weeding,Urea,Partial,High,NA,Live,176.5,0.54,NA,NA,NA
+Jun-21,40-01-03,79,Weeding,Mixed,Partial,High,NA,Live,177.5,1.7,NA,NA,NA
+Jun-21,61-01-03,80,No weeding,TSP,Partial,High,Low,Live,176.5,1.28,NA,NA,NA
+Jun-21,30-01-09,81,Weeding,None,Dry,High,Intermediate,Live,175.5,0.91,3,0.00095,-0.04738
+Jun-21,09-01-05,82,No weeding,Urea,Waterlogged,Partial,Low,Live,166,1.05,9,-0.04763,0
+Jun-21,18-01-28,83,Weeding,Mixed,Partial,Partial,NA,Live,68,0.32,9,0.03895,-0.01026
+Jun-21,30-01-09,84,No weeding,TSP,Waterlogged,High,NA,Live,142,0.62,NA,NA,NA
+Jun-21,05-01-39,85,Weeding,None,Partial,High,Low,Live,177,1.34,12,0,0.00755
+Jun-21,68-01-27,86,No weeding,Urea,Partial,High,Low,Live,161,0.43,6,-0.00309,-0.01515
+Jun-21,09-01-14,87,Weeding,Mixed,Partial,High,Low,Live,176,1.04,11,0.00038,-0.01258
+Jun-21,68-01-13,88,No weeding,TSP,Partial,High,NA,Live,177,1.06,NA,NA,NA
+Jun-21,41-01-22,89,Weeding,None,Partial,High,NA,Live,204,1.02,NA,NA,NA
+Jun-21,77-01-13,90,No weeding,Urea,Partial,High,Low,Live,177,1.05,9,0.00132,-0.06862
+Jun-21,03-01-21,91,Weeding,Mixed,Waterlogged,High,NA,Live,200,0.46,NA,NA,NA
+Jun-21,49-01-16,92,No weeding,TSP,Partial,Partial,None,Live,176,1.32,6,-0.00019,-0.02199
+Jun-21,20-01-16,93,Weeding,None,Partial,High,NA,Live,176,0.87,NA,NA,NA
+Jun-21,10-01-08,94,No weeding,Urea,Partial,High,Low,Live,176.5,1.36,4,0.00208,0.30177
+Jun-21,77-01-22,95,Weeding,Mixed,Partial,High,NA,Live,177,0.64,NA,NA,NA
+Jun-21,06-01-07,96,No weeding,TSP,Partial,High,NA,Live,249,1.42,0,-0.00067,0.00473
+Jun-21,03-01-16,97,Weeding,None,Waterlogged,High,Low,Live,84.5,0.24,4,-0.02543,-0.09589
+Jun-21,30-01-24,98,No weeding,Urea,Partial,High,Low,Live,204,1.1,NA,NA,NA
+Jun-21,40-01-25,99,No weeding,None,Waterlogged,High,Low,Live,170.5,1.67,12,-0.01153,0.07338
+Jun-21,04-01-23,100,Weeding,Urea,Partial,High,NA,Live,177,1,NA,NA,NA
+Jun-21,40-01-08,101,No weeding,Mixed,Partial,High,Low,Live,172,1.01,3,-0.01386,0.03844
+Jun-21,73-01-08,102,Weeding,TSP,Partial,High,High,Live,138,0.83,5,0.00487,-0.02327
+Jun-21,44-01-16,103,No weeding,None,Partial,High,NA,Live,194,1.12,NA,NA,NA
+Jun-21,78-01-20,104,Weeding,Urea,Dry,High,Low,Live,180,1.03,20,0.00579,-0.0127
+Jun-21,03-01-12,105,No weeding,Mixed,Partial,High,NA,Live,176.6,1.26,0,-0.00113,0.00266
+Jun-21,68-01-25,106,Weeding,TSP,Dry,High,NA,Live,177,1.13,14,0,-0.02554
+Jun-21,40-01-05,107,No weeding,None,Dry,Partial,NA,Live,177,1.21,NA,NA,NA
+Jun-21,78-01-26,108,Weeding,Urea,Dry,High,Low,Live,163.5,1.48,14,-0.02645,0.03065
+Jun-21,41-01-24,109,No weeding,Mixed,Dry,High,NA,Live,190.5,0.89,NA,NA,NA
+Jun-21,17-01-09,110,Weeding,TSP,Dry,High,NA,Live,162.5,1.38,NA,NA,NA
+Jun-21,41-01-15,111,No weeding,None,Partial,High,NA,Live,176,0.84,NA,NA,NA
+Jun-21,65-01-05,112,Weeding,Urea,Dry,High,Low,Live,191.5,0.94,16,0.02738,-0.00702
+Jun-21,44-01-07,113,No weeding,Mixed,Partial,High,NA,Live,183.5,1.22,NA,NA,NA
+Jun-21,56-01-03,114,Weeding,TSP,Waterlogged,High,NA,Live,175.8,1.22,NA,NA,NA
+Jun-21,10-01-12,115,No weeding,None,Dry,High,Intermediate,Live,175.7,1,15,-0.02957,-0.05119
+Jun-21,39-01-14,116,Weeding,Urea,Partial,High,Intermediate,Live,135,0.76,4,0.04628,0.02741
+Jun-21,10-01-04,117,No weeding,Mixed,Partial,Partial,Intermediate,Live,167,0.47,13,0.00706,-0.32068
+Jun-21,44-01-04,118,Weeding,TSP,Partial,High,Low,Live,176.5,1.44,6,0.00095,0.00702
+Jun-21,13-01-03,119,No weeding,None,Partial,High,Low,Live,180.5,1.15,20,0.02771,-0.00289
+Jun-21,68-01-28,120,Weeding,Urea,Partial,High,NA,Live,187.5,0.7,0,0.00018,0.05138
+Jun-21,03-01-07,121,No weeding,Mixed,Partial,High,NA,Live,135,0.7,NA,NA,NA
+Jun-21,20-01-31,122,Weeding,TSP,Partial,High,Low,Live,192,1.3,34,0.02995,0.02947
+Jun-21,08-01-09,123,No weeding,None,Partial,High,Low,Live,184.5,0.97,24,-0.021,0.03246
+Jun-21,71-01-01,124,Weeding,Urea,Partial,High,NA,Live,202,0.87,NA,NA,NA
+Jun-21,25-01-01,125,No weeding,Mixed,Waterlogged,Partial,NA,Live,200,0.9,NA,NA,NA
+Jun-21,08-01-06,126,Weeding,TSP,Partial,Partial,None,Live,176,0.86,8,-0.00264,-0.03318
+Jun-21,52-01-10,127,No weeding,None,Partial,High,Low,Live,177,0.86,3,-0.02572,-0.01143
+Jun-21,19-01-07,128,Weeding,Urea,Partial,High,Low,Live,178,1.02,9,-0.02783,0.12549
+Jun-21,52-01-05,129,No weeding,Mixed,Partial,High,None,Live,186,0.88,11,0.01093,-0.04261
+Jun-21,04-01-08,130,Weeding,TSP,Partial,High,NA,Live,123.5,0.72,NA,NA,NA
+Jun-21,25-01-07,131,No weeding,None,Waterlogged,High,Low,Live,195.5,0.85,NA,NA,NA
+Jun-21,30-01-01,132,Weeding,Urea,Waterlogged,High,Low,Live,139,0.76,NA,NA,NA
+Jun-21,69-01-08,133,Weeding,None,Partial,High,NA,Live,131,0.78,NA,NA,NA
+Jun-21,27-01-05,134,No weeding,Urea,Partial,Partial,NA,Live,201,1.27,NA,NA,NA
+Jun-21,18-01-21,135,Weeding,Mixed,Partial,Low,Low,Live,181,0.79,2,0.00651,0.0129
+Jun-21,64-01-04,136,No weeding,TSP,Dry,Partial,Low,Live,97,0.89,3,-0.20236,0.16655
+Jun-21,41-01-33,137,Weeding,None,Partial,High,Intermediate,Live,110,0.39,8,0.01551,0.19084
+Jun-21,49-01-12,138,No weeding,Urea,Partial,High,Intermediate,Live,182,0.73,18,0.00442,0.00926
+Jun-21,40-01-22,139,Weeding,Mixed,Partial,Partial,NA,Live,90,0.86,0,-0.01837,0.29028
+Jun-21,69-01-03,140,No weeding,TSP,Partial,Partial,NA,Live,207,0.87,NA,NA,NA
+Jun-21,18-01-24,141,Weeding,None,Dry,High,NA,Live,125.2,0.89,NA,NA,NA
+Jun-21,52-01-03,142,No weeding,Urea,Dry,High,Low,Live,183.5,0.8,NA,NA,NA
+Jun-21,32-01-02,143,Weeding,Mixed,Dry,Partial,Low,Live,76.5,0.26,6,0.0543,0.01307
+Jun-21,05-01-43,144,No weeding,TSP,Dry,Low,Low,Live,209,0.7,21,-0.00788,-0.06472
+Jun-21,62-01-09,145,Weeding,None,Dry,Partial,Low,Live,140,0.32,5,0.11551,-0.48717
+Jun-21,22-01-02,146,No weeding,Urea,Dry,Partial,None,Live,91,0.77,1,-0.06921,0.01325
+Jun-21,62-01-03,147,Weeding,Mixed,Partial,High,NA,Live,188,1.05,NA,NA,NA
+Jun-21,17-01-02,148,No weeding,TSP,Waterlogged,High,Intermediate,Live,176.5,0.81,11,0.00189,-0.00773
+Jun-21,05-01-27,149,Weeding,None,Partial,High,High,Live,177.3,0.76,14,-0.00872,-0.02573
+Jun-21,03-01-20,150,No weeding,Urea,Partial,Partial,Low,Live,188,1.49,19,-0.06576,0
+Jun-21,78-01-03,151,Weeding,Mixed,Partial,Partial,High,Live,178,0.91,9,-0.00187,-0.03144
+Jun-21,67-01-04,152,No weeding,TSP,Partial,High,NA,Live,175,0.64,0,-0.02565,0.016
+Jun-21,04-01-07,153,Weeding,None,Partial,High,Low,Live,178,1.05,24,0.00377,0.01961
+Jun-21,69-01-01,154,No weeding,Urea,Partial,High,Low,Live,192.4,0.5,3,0.00401,-0.01942
+Jun-21,02-01-04,155,Weeding,Mixed,Waterlogged,High,NA,Live,211,1.17,NA,NA,NA
+Jun-21,77-01-06,156,No weeding,TSP,Partial,High,NA,Live,216,1.17,NA,NA,NA
+Jun-21,41-01-18,157,Weeding,None,Partial,High,NA,Live,181.5,0.63,NA,NA,NA
+Jun-21,75-01-06,158,No weeding,Urea,Partial,High,Low,Live,187,0.87,3,0.00304,0.11834
+Jun-21,09-01-25,159,Weeding,Mixed,Partial,High,NA,Live,175,1.52,NA,NA,NA
+Jun-21,77-01-20,160,No weeding,TSP,Waterlogged,Partial,Low,Live,177,1.72,33,-0.00056,-0.07438
+Jun-21,45-01-07,161,Weeding,None,Partial,High,NA,Live,186,0.82,NA,NA,NA
+Jun-21,08-01-04,162,No weeding,Urea,Partial,Partial,Intermediate,Live,178,1.32,18,0.08727,0.34422
+Jun-21,43-01-03,163,Weeding,Mixed,Partial,High,NA,Live,78,0.56,NA,NA,NA
+Jun-21,40-01-01,164,No weeding,TSP,Partial,High,Low,Live,150.5,0.79,10,-0.05255,0.00425
+Jun-21,45-01-08,165,Weeding,None,Waterlogged,High,Low,Live,178,1.37,NA,NA,NA
+Jun-21,75-01-12,166,No weeding,Urea,Partial,High,High,Live,179.5,0.75,7,0.00449,0.0376
+Jun-21,52-01-13,167,No weeding,None,Partial,Partial,NA,Live,187,0.83,NA,NA,NA
+Jun-21,49-01-09,168,Weeding,Urea,Partial,Low,NA,Live,171,0.83,NA,NA,NA
+Jun-21,78-01-30,169,No weeding,Mixed,Dry,Low,NA,Live,192,1.21,NA,NA,NA
+Jun-21,18-01-07,170,No weeding,TSP,Partial,Low,NA,Live,94,0.89,NA,NA,NA
+Jun-21,71-01-02,171,No weeding,None,Partial,Partial,None,Live,176,1.23,22,0.05663,0.02242
+Jun-21,68-01-07,172,Weeding,Urea,Partial,High,Intermediate,Live,196,0.95,12,0.03455,0.01802
+Jun-21,25-01-09,173,No weeding,Mixed,Partial,Partial,NA,Live,158,0.45,NA,NA,NA
+Jun-21,78-01-05,174,Weeding,TSP,Dry,Partial,Low,Live,175.5,1.37,15,0,0.0414
+Jun-21,03-01-23,175,No weeding,None,Dry,Partial,Low,Live,210,1.3,11,0.01295,0.01845
+Jun-21,50-01-06,176,Weeding,Urea,Partial,Low,Low,Live,177,0.29,2,0.00474,-0.30772
+Jun-21,65-01-04,177,No weeding,Mixed,Partial,Low,Low,Live,178,1.16,5,0.00113,0.03321
+Jun-21,52-01-15,178,Weeding,TSP,Dry,Low,NA,Live,139,0.88,NA,NA,NA
+Jun-21,35-01-02,179,No weeding,None,Partial,Low,NA,Live,119,0.71,NA,NA,NA
+Jun-21,56-01-11,180,Weeding,Urea,Partial,Low,NA,Live,188.5,1.1,NA,NA,NA
+Jun-21,39-0-26,181,No weeding,Mixed,Partial,Partial,NA,Live,181.5,0.6,NA,NA,NA
+Jun-21,76-01-06,182,Weeding,TSP,Partial,Partial,NA,Live,115.5,0.77,NA,NA,NA
+Jun-21,06-01-11,183,No weeding,None,Partial,Partial,NA,Live,176.5,0.96,NA,NA,NA
+Jun-21,29-01-05,184,Weeding,Urea,Partial,Partial,NA,Live,211,1,NA,NA,NA
+Jun-21,13-01-04,185,No weeding,Mixed,Partial,Partial,NA,Live,196,1.08,NA,NA,NA
+Jun-21,20-01-05,186,Weeding,TSP,Partial,High,Low,Live,185,0.72,6,-0.00854,0.04451
+Jun-21,24-01-08,187,No weeding,None,Partial,High,NA,Live,187,1.19,NA,NA,NA
+Jun-21,77-01-18,188,Weeding,Urea,Dry,High,NA,Live,207,1.09,NA,NA,NA
+Jun-21,55-01-02,189,No weeding,Mixed,Partial,High,NA,Live,177,0.95,NA,NA,NA
+Jun-21,50-01-11,190,Weeding,TSP,Partial,High,NA,Live,192,0.66,NA,NA,NA
+Jun-21,20-01-14,191,No weeding,None,Partial,High,Low,Live,175,1.56,24,0,0.00866
+Jun-21,05-01-17,192,Weeding,Urea,Partial,High,Low,Live,177,1.15,7,0.00094,0.02093
+Jun-21,29-01-06,193,No weeding,Mixed,Partial,Partial,Low,Live,183,0.59,3,-0.002,-0.02712
+Jun-21,73-01-01,194,Weeding,TSP,Partial,High,None,Live,150,1.48,0,-0.09756,-0.00669
+Jun-21,75-01-16,195,No weeding,None,Partial,Partial,NA,Live,175.7,1.06,NA,NA,NA
+Jun-21,36-01-01,196,Weeding,Urea,Partial,Partial,NA,Live,169,0.45,NA,NA,NA
+Jun-21,05-01-02,197,No weeding,Mixed,Partial,High,None,Live,171,0.66,3,-0.01244,-0.17329
+Jun-21,77-01-21,198,Weeding,TSP,Partial,High,NA,Live,170,0.67,NA,NA,NA
+Jun-21,24-01-05,199,No weeding,None,Waterlogged,High,Low,Live,233,1.06,NA,NA,NA
+Jun-21,49-01-14,200,Weeding,Urea,Partial,High,Low,Live,139,0.94,12,0.01471,0.04553
