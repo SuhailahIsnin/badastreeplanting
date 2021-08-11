@@ -1,2 +1,4 @@
 # badastreeplanting
-Raw data and R codes
+xlsx file contains data and desriptions of data
+
+csv file contains same data but without descriptions
